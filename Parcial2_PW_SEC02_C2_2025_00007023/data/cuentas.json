@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "1",
+    "isActive": true,
+    "balance": "$2,523.00",
+    "client": "Katie Woodard",
+    "gender": "female"
+  },
+  {
+    "_id": "2",
+    "isActive": false,
+    "balance": "$1,200.50",
+    "client": "Carlos Mendoza",
+    "gender": "male"
+  },
+  {
+    "_id": "3",
+    "isActive": true,
+    "balance": "$5,000",
+    "client": "Ana López",
+    "gender": "female"
+  },
+  {
+    "_id": "4",
+    "isActive": true,
+    "balance": "$750.75",
+    "client": "Miguel Ángel",
+    "gender": "male"
+  },
+  {
+    "_id": "5",
+    "isActive": true,
+    "balance": "$3,333.33",
+    "client": "Mariana Ruiz",
+    "gender": "female"
+  },
+  {
+    "_id": "6",
+    "isActive": false,
+    "balance": "$0.00",
+    "client": "Pedro Alvarez",
+    "gender": "male"
+  },
+  {
+    "_id": "7",
+    "isActive": true,
+    "balance": "$12,500",
+    "client": "Sofía Ortega",
+    "gender": "female"
+  }
+]
